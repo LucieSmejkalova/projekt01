@@ -94,7 +94,7 @@ a{
 .hlavicka {
     text-align: left;
     padding: 50px 15%;
-    background-image: url(Obrázky/foto-uvod.webp);
+    background-image: url(./docs/assets/images/foto-uvod.webp);
     padding: 150px 30px;
     background-repeat: no-repeat;
     background-position: center;
